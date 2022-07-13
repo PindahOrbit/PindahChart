@@ -1,0 +1,10 @@
+{
+  "version": "1.0",
+  "defaultProvider": "unpkg",
+  "libraries": [
+    {
+      "library": "apexcharts@3.35.3",
+      "destination": "wwwroot/apexcharts/"
+    }
+  ]
+}
